@@ -4,25 +4,25 @@
       "version": "1.3.0",
       "changelog": "Added new features and bug fixes.",
       "date": "2023-10-01",
-      "downloadUrl": "https://yourserver.com/firmware/firmware_v1.3.0.bin"
+      "downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.3.0.bin"
     },
     {
       "version": "1.2.0",
       "changelog": "Enhanced performance and stability improvements.",
       "date": "2023-09-22",
-      "downloadUrl": "https://yourserver.com/firmware/firmware_v1.2.0.bin"
+      "downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.2.0.bin"
     },
     {
       "version": "1.1.0",
       "changelog": "Minor improvements and bug fixes.",
       "date": "2023-08-15",
-      "downloadUrl": "https://yourserver.com/firmware/firmware_v1.1.0.bin"
+      "downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.1.0.bin"
     },
     {
       "version": "1.0.0",
       "changelog": "Initial release.",
       "date": "2023-07-01",
-      "downloadUrl": "https://yourserver.com/firmware/firmware_v1.0.0.bin"
+      "downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.0.0.bin"
     }
   ]
 }
