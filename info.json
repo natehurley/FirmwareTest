@@ -14,6 +14,8 @@
 			"changelog": "Added new features and bug fixes.",
 			"date": "2023-10-01",
 			"stmDownloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.3.0_stm.bin",
+			"bleDownloadUrl": null,
+			"radioDownloadUrl": null,
 			"modemDownloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.3.0_modem.bin"
 		},
 		{
@@ -21,14 +23,18 @@
 			"changelog": "Enhanced performance and stability improvements.",
 			"date": "2023-09-22",
 			"stmDownloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.2.0_stm.bin",
-			"radioDownloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.2.0_radio.bin"
+			"bleDownloadUrl": null,
+			"radioDownloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.2.0_radio.bin",
+			"modemDownloadUrl": null
 		},
 		{
 			"version": "1.1.0",
 			"changelog": "Minor improvements and bug fixes.",
 			"date": "2023-08-15",
 			"stmDownloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.1.0_stm.bin",
-			"bleDownloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.1.0_ble.bin"
+			"bleDownloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.1.0_ble.bin",
+			"radioDownloadUrl": null,
+			"modemDownloadUrl": null
 		},
 		{
 			"version": "1.0.0",
