@@ -7,7 +7,7 @@
 			"releaseDate": "2024-01-01",
 			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.4.0_stm.bin",
 			"fileName": "firmware_v1.4.0_stm.bin",
-			"size": 0,
+			"size": 15,
 			"downloadStatus": "not_downloaded",
 			"source": "server"
 		},
@@ -18,7 +18,7 @@
 			"releaseDate": "2024-01-01",
 			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.4.0_ble.bin",
 			"fileName": "firmware_v1.4.0_ble.bin",
-			"size": 0,
+			"size": 15,
 			"downloadStatus": "not_downloaded",
 			"source": "server"
 		},
@@ -29,7 +29,7 @@
 			"releaseDate": "2024-01-01",
 			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.4.0_radio.bin",
 			"fileName": "firmware_v1.4.0_radio.bin",
-			"size": 0,
+			"size": 15,
 			"downloadStatus": "not_downloaded",
 			"source": "server"
 		},
@@ -40,7 +40,7 @@
 			"releaseDate": "2024-01-01",
 			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.4.0_modem.bin",
 			"fileName": "firmware_v1.4.0_modem.bin",
-			"size": 0,
+			"size": 15,
 			"downloadStatus": "not_downloaded",
 			"source": "server"
 		},
@@ -51,7 +51,7 @@
 			"releaseDate": "2023-10-01",
 			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.3.0_stm.bin",
 			"fileName": "firmware_v1.3.0_stm.bin",
-			"size": 0,
+			"size": 15,
 			"downloadStatus": "not_downloaded",
 			"source": "server"
 		},
@@ -62,7 +62,7 @@
 			"releaseDate": "2023-10-01",
 			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.3.0_modem.bin",
 			"fileName": "firmware_v1.3.0_modem.bin",
-			"size": 0,
+			"size": 15,
 			"downloadStatus": "not_downloaded",
 			"source": "server"
 		},
@@ -73,7 +73,7 @@
 			"releaseDate": "2023-09-22",
 			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.2.0_stm.bin",
 			"fileName": "firmware_v1.2.0_stm.bin",
-			"size": 0,
+			"size": 15,
 			"downloadStatus": "not_downloaded",
 			"source": "server"
 		},
@@ -84,7 +84,7 @@
 			"releaseDate": "2023-09-22",
 			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.2.0_radio.bin",
 			"fileName": "firmware_v1.2.0_radio.bin",
-			"size": 0,
+			"size": 15,
 			"downloadStatus": "not_downloaded",
 			"source": "server"
 		},
@@ -95,7 +95,7 @@
 			"releaseDate": "2023-08-15",
 			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.1.0_stm.bin",
 			"fileName": "firmware_v1.1.0_stm.bin",
-			"size": 0,
+			"size": 15,
 			"downloadStatus": "not_downloaded",
 			"source": "server"
 		},
@@ -106,7 +106,7 @@
 			"releaseDate": "2023-08-15",
 			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.1.0_ble.bin",
 			"fileName": "firmware_v1.1.0_ble.bin",
-			"size": 0,
+			"size": 15,
 			"downloadStatus": "not_downloaded",
 			"source": "server"
 		},
@@ -117,7 +117,7 @@
 			"releaseDate": "2023-07-01",
 			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.0.0_stm.bin",
 			"fileName": "firmware_v1.0.0_stm.bin",
-			"size": 0,
+			"size": 15,
 			"downloadStatus": "not_downloaded",
 			"source": "server"
 		},
@@ -128,7 +128,7 @@
 			"releaseDate": "2023-07-01",
 			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.0.0_ble.bin",
 			"fileName": "firmware_v1.0.0_ble.bin",
-			"size": 0,
+			"size": 15,
 			"downloadStatus": "not_downloaded",
 			"source": "server"
 		},
@@ -139,7 +139,7 @@
 			"releaseDate": "2023-07-01",
 			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.0.0_radio.bin",
 			"fileName": "firmware_v1.0.0_radio.bin",
-			"size": 0,
+			"size": 15,
 			"downloadStatus": "not_downloaded",
 			"source": "server"
 		},
@@ -150,7 +150,7 @@
 			"releaseDate": "2023-07-01",
 			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.0.0_modem.bin",
 			"fileName": "firmware_v1.0.0_modem.bin",
-			"size": 0,
+			"size": 15,
 			"downloadStatus": "not_downloaded",
 			"source": "server"
 		}
