@@ -1,49 +1,158 @@
 {
-	"firmwareVersions": [
+	"resources": [
 		{
+			"type": "firmware",
+			"component": "stm",
 			"version": "1.4.0",
-			"changelog": "Changed the way the firmware is uploaded to the device and minor bug fixes.",
-			"date": "2024-01-01",
-			"stmDownloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.4.0_stm.bin",
-			"bleDownloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.4.0_ble.bin",
-			"radioDownloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.4.0_radio.bin",
-			"modemDownloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.4.0_modem.bin"
+			"releaseDate": "2024-01-01",
+			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.4.0_stm.bin",
+			"fileName": "firmware_v1.4.0_stm.bin",
+			"size": 0,
+			"downloadStatus": "not_downloaded",
+			"source": "server"
 		},
 		{
+			"type": "firmware",
+			"component": "ble",
+			"version": "1.4.0",
+			"releaseDate": "2024-01-01",
+			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.4.0_ble.bin",
+			"fileName": "firmware_v1.4.0_ble.bin",
+			"size": 0,
+			"downloadStatus": "not_downloaded",
+			"source": "server"
+		},
+		{
+			"type": "firmware",
+			"component": "radio",
+			"version": "1.4.0",
+			"releaseDate": "2024-01-01",
+			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.4.0_radio.bin",
+			"fileName": "firmware_v1.4.0_radio.bin",
+			"size": 0,
+			"downloadStatus": "not_downloaded",
+			"source": "server"
+		},
+		{
+			"type": "firmware",
+			"component": "modem",
+			"version": "1.4.0",
+			"releaseDate": "2024-01-01",
+			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.4.0_modem.bin",
+			"fileName": "firmware_v1.4.0_modem.bin",
+			"size": 0,
+			"downloadStatus": "not_downloaded",
+			"source": "server"
+		},
+		{
+			"type": "firmware",
+			"component": "stm",
 			"version": "1.3.0",
-			"changelog": "Added new features and bug fixes.",
-			"date": "2023-10-01",
-			"stmDownloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.3.0_stm.bin",
-			"bleDownloadUrl": null,
-			"radioDownloadUrl": null,
-			"modemDownloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.3.0_modem.bin"
+			"releaseDate": "2023-10-01",
+			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.3.0_stm.bin",
+			"fileName": "firmware_v1.3.0_stm.bin",
+			"size": 0,
+			"downloadStatus": "not_downloaded",
+			"source": "server"
 		},
 		{
+			"type": "firmware",
+			"component": "modem",
+			"version": "1.3.0",
+			"releaseDate": "2023-10-01",
+			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.3.0_modem.bin",
+			"fileName": "firmware_v1.3.0_modem.bin",
+			"size": 0,
+			"downloadStatus": "not_downloaded",
+			"source": "server"
+		},
+		{
+			"type": "firmware",
+			"component": "stm",
 			"version": "1.2.0",
-			"changelog": "Enhanced performance and stability improvements.",
-			"date": "2023-09-22",
-			"stmDownloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.2.0_stm.bin",
-			"bleDownloadUrl": null,
-			"radioDownloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.2.0_radio.bin",
-			"modemDownloadUrl": null
+			"releaseDate": "2023-09-22",
+			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.2.0_stm.bin",
+			"fileName": "firmware_v1.2.0_stm.bin",
+			"size": 0,
+			"downloadStatus": "not_downloaded",
+			"source": "server"
 		},
 		{
+			"type": "firmware",
+			"component": "radio",
+			"version": "1.2.0",
+			"releaseDate": "2023-09-22",
+			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.2.0_radio.bin",
+			"fileName": "firmware_v1.2.0_radio.bin",
+			"size": 0,
+			"downloadStatus": "not_downloaded",
+			"source": "server"
+		},
+		{
+			"type": "firmware",
+			"component": "stm",
 			"version": "1.1.0",
-			"changelog": "Minor improvements and bug fixes.",
-			"date": "2023-08-15",
-			"stmDownloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.1.0_stm.bin",
-			"bleDownloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.1.0_ble.bin",
-			"radioDownloadUrl": null,
-			"modemDownloadUrl": null
+			"releaseDate": "2023-08-15",
+			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.1.0_stm.bin",
+			"fileName": "firmware_v1.1.0_stm.bin",
+			"size": 0,
+			"downloadStatus": "not_downloaded",
+			"source": "server"
 		},
 		{
+			"type": "firmware",
+			"component": "ble",
+			"version": "1.1.0",
+			"releaseDate": "2023-08-15",
+			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.1.0_ble.bin",
+			"fileName": "firmware_v1.1.0_ble.bin",
+			"size": 0,
+			"downloadStatus": "not_downloaded",
+			"source": "server"
+		},
+		{
+			"type": "firmware",
+			"component": "stm",
 			"version": "1.0.0",
-			"changelog": "Initial release.",
-			"date": "2023-07-01",
-			"stmDownloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.0.0_stm.bin",
-			"bleDownloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.0.0_ble.bin",
-			"radioDownloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.0.0_radio.bin",
-			"modemDownloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/refs/heads/master/firmware_v1.0.0_modem.bin"
+			"releaseDate": "2023-07-01",
+			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.0.0_stm.bin",
+			"fileName": "firmware_v1.0.0_stm.bin",
+			"size": 0,
+			"downloadStatus": "not_downloaded",
+			"source": "server"
+		},
+		{
+			"type": "firmware",
+			"component": "ble",
+			"version": "1.0.0",
+			"releaseDate": "2023-07-01",
+			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.0.0_ble.bin",
+			"fileName": "firmware_v1.0.0_ble.bin",
+			"size": 0,
+			"downloadStatus": "not_downloaded",
+			"source": "server"
+		},
+		{
+			"type": "firmware",
+			"component": "radio",
+			"version": "1.0.0",
+			"releaseDate": "2023-07-01",
+			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.0.0_radio.bin",
+			"fileName": "firmware_v1.0.0_radio.bin",
+			"size": 0,
+			"downloadStatus": "not_downloaded",
+			"source": "server"
+		},
+		{
+			"type": "firmware",
+			"component": "modem",
+			"version": "1.0.0",
+			"releaseDate": "2023-07-01",
+			"downloadUrl": "https://raw.githubusercontent.com/natehurley/FirmwareTest/master/firmware_v1.0.0_modem.bin",
+			"fileName": "firmware_v1.0.0_modem.bin",
+			"size": 0,
+			"downloadStatus": "not_downloaded",
+			"source": "server"
 		}
 	]
 }
